@@ -1,0 +1,1 @@
+print [(a, b, c) for a in range(1, 335) for b in range(1, 450) for c in range(1, 700) if c == 1000 - a - b and a < b  and b < c and a**2 + b**2 == c**2]

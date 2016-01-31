@@ -1,0 +1,1 @@
+There will be a "-#" appeneded to the filename before the extention which indicates the 'revision' of the solution. -1 will likely map to 'first attempt' (which will likely be a simple logical approach which lacks efficiency) and others will be attemps to either improve the solution or solve it using a specific method. Explanations should be provided in comments at top of file.
